@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/CursoEngProd/static/css/main.781bfffe.chunk.css",
-    "main.js": "/CursoEngProd/static/js/main.cb1f56d3.chunk.js",
-    "main.js.map": "/CursoEngProd/static/js/main.cb1f56d3.chunk.js.map",
+    "main.css": "/CursoEngProd/static/css/main.a656a58a.chunk.css",
+    "main.js": "/CursoEngProd/static/js/main.b27255f9.chunk.js",
+    "main.js.map": "/CursoEngProd/static/js/main.b27255f9.chunk.js.map",
     "runtime-main.js": "/CursoEngProd/static/js/runtime-main.3924100e.js",
     "runtime-main.js.map": "/CursoEngProd/static/js/runtime-main.3924100e.js.map",
     "static/js/2.f9071a03.chunk.js": "/CursoEngProd/static/js/2.f9071a03.chunk.js",
     "static/js/2.f9071a03.chunk.js.map": "/CursoEngProd/static/js/2.f9071a03.chunk.js.map",
     "index.html": "/CursoEngProd/index.html",
-    "precache-manifest.2cf5c9c4397259ae134944b3f6b59e20.js": "/CursoEngProd/precache-manifest.2cf5c9c4397259ae134944b3f6b59e20.js",
+    "precache-manifest.204e94359c699dca775d3a89f5902430.js": "/CursoEngProd/precache-manifest.204e94359c699dca775d3a89f5902430.js",
     "service-worker.js": "/CursoEngProd/service-worker.js",
-    "static/css/main.781bfffe.chunk.css.map": "/CursoEngProd/static/css/main.781bfffe.chunk.css.map",
+    "static/css/main.a656a58a.chunk.css.map": "/CursoEngProd/static/css/main.a656a58a.chunk.css.map",
     "static/js/2.f9071a03.chunk.js.LICENSE.txt": "/CursoEngProd/static/js/2.f9071a03.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3924100e.js",
     "static/js/2.f9071a03.chunk.js",
-    "static/css/main.781bfffe.chunk.css",
-    "static/js/main.cb1f56d3.chunk.js"
+    "static/css/main.a656a58a.chunk.css",
+    "static/js/main.b27255f9.chunk.js"
   ]
 }
