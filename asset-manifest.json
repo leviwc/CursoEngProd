@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/CursoEngProd/static/css/main.6e722a10.chunk.css",
+    "main.css": "/CursoEngProd/static/css/main.baade5cb.chunk.css",
     "main.js": "/CursoEngProd/static/js/main.cb1f56d3.chunk.js",
     "main.js.map": "/CursoEngProd/static/js/main.cb1f56d3.chunk.js.map",
     "runtime-main.js": "/CursoEngProd/static/js/runtime-main.3924100e.js",
@@ -8,15 +8,15 @@
     "static/js/2.f9071a03.chunk.js": "/CursoEngProd/static/js/2.f9071a03.chunk.js",
     "static/js/2.f9071a03.chunk.js.map": "/CursoEngProd/static/js/2.f9071a03.chunk.js.map",
     "index.html": "/CursoEngProd/index.html",
-    "precache-manifest.a3981344ce699b435791621d313570d3.js": "/CursoEngProd/precache-manifest.a3981344ce699b435791621d313570d3.js",
+    "precache-manifest.5ba1fc7239f7301d673e3f74357122f6.js": "/CursoEngProd/precache-manifest.5ba1fc7239f7301d673e3f74357122f6.js",
     "service-worker.js": "/CursoEngProd/service-worker.js",
-    "static/css/main.6e722a10.chunk.css.map": "/CursoEngProd/static/css/main.6e722a10.chunk.css.map",
+    "static/css/main.baade5cb.chunk.css.map": "/CursoEngProd/static/css/main.baade5cb.chunk.css.map",
     "static/js/2.f9071a03.chunk.js.LICENSE.txt": "/CursoEngProd/static/js/2.f9071a03.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3924100e.js",
     "static/js/2.f9071a03.chunk.js",
-    "static/css/main.6e722a10.chunk.css",
+    "static/css/main.baade5cb.chunk.css",
     "static/js/main.cb1f56d3.chunk.js"
   ]
 }
